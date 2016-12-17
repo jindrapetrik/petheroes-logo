@@ -1,4 +1,4 @@
-# Pet heroes z.s návrhy loga
+# Pet heroes z.s. návrhy loga
 
 Ve složce [render] se nachází všechny varianty log vyrenderované.
 
