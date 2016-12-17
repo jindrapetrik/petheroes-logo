@@ -2,7 +2,7 @@
 
 Ve složce [render] se nachází všechny varianty log vyrenderované.
 
-Zdrojový vektorový obrázek je ve [petheroes_loga_vektor.svg] (pravé tlačítko, uložit jako)
+Zdrojový vektorový obrázek je ve [petheroes_loga_vektor.svg]  - pravé tlačítko, uložit jako
 
 **POZOR:** Ve vektorovém obrázku jsou další varianty log schované do dalších vrstev (layers) obrázku.
 Aby byly viditelné, je třeba je přepnout.
